@@ -49,7 +49,7 @@ function switchTheme(e) {
 
 const currentTheme = localStorage.getItem("theme")
   ? localStorage.getItem("theme")
-  : null;
+  : "dark"; // Set default to "dark"
 
 if (currentTheme) {
   document.documentElement.setAttribute("data-theme", currentTheme);

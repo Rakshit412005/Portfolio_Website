@@ -1,5 +1,4 @@
 # Rakshit's Portfolio
-
 Welcome to my personal portfolio website! This website showcases some of the projects I've worked on as a 2nd-year undergraduate CSE student, with a focus on Data Structures, Algorithms, and Frontend Development. It also provides information about me, including my interests and hobbies.
 
 ## Table of Contents
