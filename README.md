@@ -7,7 +7,6 @@ Welcome to my personal portfolio website! This website showcases some of the pro
 - [Projects](#projects)
 - [Features](#features)
 - [Installation](#installation)
-- [License](#license)
 - [Contact](#contact)
 
 ## Live Demo
