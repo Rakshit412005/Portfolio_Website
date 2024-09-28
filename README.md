@@ -1,4 +1,4 @@
-**Make sure that you have loged into your linkidn account on that particular chrome from which you are seeing my portfolio website before clicking on the Academics button**
+**Make sure that you have loged into your linkdin account on that particular chrome from which you are seeing my portfolio website before clicking on the Academics button**
 
 # Rakshit's Portfolio
 Welcome to my personal portfolio website! This website showcases some of the projects I've worked on as a 2nd-year undergraduate CSE student, with a focus on Data Structures, Algorithms, and Frontend Development. It also provides information about me, including my interests and hobbies. 
