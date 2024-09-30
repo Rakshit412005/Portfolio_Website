@@ -34,7 +34,7 @@ h2::selection {
   color: var(--bg-primary);
 }
 
-/* add hover to resume button */
+/* add hover to academics button */
 .btn-primary:hover {
   background: var(--secondary-color);
 }
